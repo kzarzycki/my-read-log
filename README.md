@@ -2,7 +2,10 @@
 Data engineering, programming and other news, articles I read related to my profession and interests. 
 
 # 2010-10-15
-https://medium.com/@TechKing/benchmarking-google-bigquery-at-scale-13e1e85f3bec
+
+* Pretty good comparison of performance and concurrency of Hive, Impala and GC BigQuery. I'm curious how Presto would perform here. Unfortunately missing open-sourcing the benchmark to make it repeatable by others (even without the company private queries).
+
+  https://medium.com/@TechKing/benchmarking-google-bigquery-at-scale-13e1e85f3bec
 
 
 
