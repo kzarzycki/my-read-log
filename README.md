@@ -1,6 +1,10 @@
 # my-read-log
 Data engineering, programming and other news, articles I read related to my profession and interests. 
 
+# 201-10-16
+* Why-across-time provenance. On the subject of debugability of distributed systems. This kind of feature could be implemented platform-wide in things like Atlas.
+
+  http://delivery.acm.org/10.1145/3270000/3267839/p333-Whittaker.pdf
 # 2010-10-15
 
 * Pretty good comparison of performance and concurrency of Hive, Impala and GC BigQuery. I'm curious how Presto would perform here. Unfortunately missing open-sourcing the benchmark to make it repeatable by others (even without the company private queries).
