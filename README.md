@@ -1,11 +1,16 @@
 # my-read-log
 Data engineering, programming and other news, articles I read related to my profession and interests. 
 
-# 201-10-16
+# 2018-10-17
+* Pretty simple tutorial how to build home-grown smart-home alerting system using Pi, KSQL, H2O, Pushbullet and Hass.io.
+  
+  https://medium.com/@simon.aubury/machine-learning-kafka-ksql-stream-processing-bug-me-when-ive-left-the-heater-on-bd47540cd1e8
+  
+# 2018-10-16
 * Why-across-time provenance. On the subject of debugability of distributed systems. This kind of feature could be implemented platform-wide in things like Atlas.
 
   http://delivery.acm.org/10.1145/3270000/3267839/p333-Whittaker.pdf
-# 2010-10-15
+# 2018-10-15
 
 * Pretty good comparison of performance and concurrency of Hive, Impala and GC BigQuery. I'm curious how Presto would perform here. Unfortunately missing open-sourcing the benchmark to make it repeatable by others (even without the company private queries).
 
