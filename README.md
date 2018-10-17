@@ -6,6 +6,10 @@ Data engineering, programming and other news, articles I read related to my prof
   
   https://medium.com/@simon.aubury/machine-learning-kafka-ksql-stream-processing-bug-me-when-ive-left-the-heater-on-bd47540cd1e8
   
+* Conda libraries come preconfigured, optimized, in contrast to pip libraries. Wow, didn't know that.
+
+  https://towardsdatascience.com/stop-installing-tensorflow-using-pip-for-performance-sake-5854f9d9eb0c
+  
 # 2018-10-16
 * Why-across-time provenance. On the subject of debugability of distributed systems. This kind of feature could be implemented platform-wide in things like Atlas.
 
