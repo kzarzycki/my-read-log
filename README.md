@@ -19,7 +19,10 @@ Data engineering, programming and other news, articles I read related to my prof
 
   https://aws.amazon.com/blogs/big-data/migrate-to-apache-hbase-on-amazon-s3-on-amazon-emr-guidelines-and-best-practices/
   
-  
+* Pulsar: Another system that can offload deep/cold storage to S3. I wonder when Kafka will finally support such approach.
+
+  https://streaml.io/blog/configuring-apache-pulsar-tiered-storage-with-amazon-s3
+
 # 2018-10-16
 * Why-across-time provenance. On the subject of debugability of distributed systems. This kind of feature could be implemented platform-wide in things like Atlas.
 
