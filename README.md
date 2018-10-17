@@ -10,6 +10,11 @@ Data engineering, programming and other news, articles I read related to my prof
 
   https://towardsdatascience.com/stop-installing-tensorflow-using-pip-for-performance-sake-5854f9d9eb0c
   
+  
+* I always thought it would be very useful to have node.js based big data processing system. Many people are JS only and could leverage that. Still haven't seen one, but this tutorial shows at least how to quickly stream files to node.js processor.
+
+  https://itnext.io/using-node-js-to-read-really-really-large-files-pt-1-d2057fe76b33
+  
 # 2018-10-16
 * Why-across-time provenance. On the subject of debugability of distributed systems. This kind of feature could be implemented platform-wide in things like Atlas.
 
