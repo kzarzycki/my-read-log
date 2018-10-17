@@ -22,6 +22,10 @@ Data engineering, programming and other news, articles I read related to my prof
 * Pulsar: Another system that can offload deep/cold storage to S3 (or any cloud storage?). I wonder when Kafka will finally support such approach.
 
   https://streaml.io/blog/configuring-apache-pulsar-tiered-storage-with-amazon-s3
+  
+* How to run Zookeeper on really large scale? Twitter shares their approach. Learned about Zookeeper local sessions, more about Observers and operations. I haven't had yet such use case. I'm curious how embedded approaches like https://atomix.io/ (based on Raft) perform in such use cases, because it's always a pain to have an additional service like ZK.
+
+  https://blog.twitter.com/engineering/en_us/topics/infrastructure/2018/zookeeper-at-twitter.html
 
 # 2018-10-16
 * Why-across-time provenance. On the subject of debugability of distributed systems. This kind of feature could be implemented platform-wide in things like Atlas.
