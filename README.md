@@ -15,6 +15,11 @@ Data engineering, programming and other news, articles I read related to my prof
 
   https://itnext.io/using-node-js-to-read-really-really-large-files-pt-1-d2057fe76b33
   
+* Mm, nice. Offloading HBase deep storage to S3. Doesn't look straightforward, as manual has 50 pages.
+
+  https://aws.amazon.com/blogs/big-data/migrate-to-apache-hbase-on-amazon-s3-on-amazon-emr-guidelines-and-best-practices/
+  
+  
 # 2018-10-16
 * Why-across-time provenance. On the subject of debugability of distributed systems. This kind of feature could be implemented platform-wide in things like Atlas.
 
