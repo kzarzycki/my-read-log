@@ -15,11 +15,11 @@ Data engineering, programming and other news, articles I read related to my prof
 
   https://itnext.io/using-node-js-to-read-really-really-large-files-pt-1-d2057fe76b33
   
-* Mm, nice. Offloading HBase deep storage to S3. Doesn't look straightforward, as manual has 50 pages.
+* Mm, nice. Offloading HBase deep/cold storage to S3 (or any cloud storage?). Doesn't look straightforward, as manual has 50 pages.
 
   https://aws.amazon.com/blogs/big-data/migrate-to-apache-hbase-on-amazon-s3-on-amazon-emr-guidelines-and-best-practices/
   
-* Pulsar: Another system that can offload deep/cold storage to S3. I wonder when Kafka will finally support such approach.
+* Pulsar: Another system that can offload deep/cold storage to S3 (or any cloud storage?). I wonder when Kafka will finally support such approach.
 
   https://streaml.io/blog/configuring-apache-pulsar-tiered-storage-with-amazon-s3
 
