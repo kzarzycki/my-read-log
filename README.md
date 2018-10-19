@@ -1,6 +1,11 @@
 # my-read-log
 Data engineering, programming and other news, articles I read related to my profession and interests. 
 
+# 2018-10-19
+* How to  handle failing messages and retries when consuming from Kafka. Till now, I was doing the DLQ without the retries. The count-based retry queues is a neat idea, although looks a bit operational heavy.
+
+  https://eng.uber.com/reliable-reprocessing/
+  
 # 2018-10-17
 * Pretty simple tutorial how to build home-grown smart-home alerting system using Pi, KSQL, H2O, Pushbullet and Hass.io.
   
