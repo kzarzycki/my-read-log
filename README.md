@@ -1,6 +1,12 @@
 # my-read-log
 Data engineering, programming and other news, articles I read related to my profession and interests. 
 
+# 2018-11-01
+* Github post-mortem on their recent (2018-10-21) accident. It's still not clear to me how it was possible to get unreplicated writes in one of datacenters. I'm also curious how would databases like Cassandra perform on such failure. 
+  Plus, When you run a service large like that, chaos engineering is a must. The parts of the system have to continuously and intentionally fail!
+  
+  https://blog.github.com/2018-10-30-oct21-post-incident-analysis/
+  
 # 2018-10-19
 * How to  handle failing messages and retries when consuming from Kafka. Till now, I was doing the DLQ without the retries. The count-based retry queues is a neat idea, although looks a bit operational heavy.
 
